@@ -10,7 +10,7 @@ Studied as a photographer , acquired the ability to set the frame , and also to 
 ```var multiply = function (a, b){ ```  
 ```return a * b```  
 ```};```
-# Courese 
+# Course 
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
-#  English 
+# English 
 **A1** 
