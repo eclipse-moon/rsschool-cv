@@ -1,1 +1,1 @@
-# rsschool-cv
+https://eclipse-moon.github.io/rsschool-cv/
