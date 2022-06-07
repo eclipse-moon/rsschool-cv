@@ -1,1 +1,1 @@
-https://eclipse-moon.github.io/rsschool-cv/cv
+https://eclipse-moon.github.io/rsschool-cv/
